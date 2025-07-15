@@ -1,0 +1,2 @@
+# selecting_and_cropping_static_videos
+
